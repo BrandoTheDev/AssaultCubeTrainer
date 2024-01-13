@@ -1,6 +1,8 @@
 # AssaultCube Trainer
 > God Mode
 
+> Aimbot
+
 > Infinite Ammo
 
 > Wall Hacks
