@@ -1,0 +1,8 @@
+﻿  Features.cpp
+C:\Users\Brando\source\repos\ExternalAssaultCube\ExternalAssaultCube\Features.cpp(135,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brando\source\repos\ExternalAssaultCube\ExternalAssaultCube\Features.cpp(135,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brando\source\repos\ExternalAssaultCube\ExternalAssaultCube\Features.cpp(136,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brando\source\repos\ExternalAssaultCube\ExternalAssaultCube\Features.cpp(136,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  ExternalAssaultCube.vcxproj -> C:\Users\Brando\source\repos\ExternalAssaultCube\Debug\ExternalAssaultCube.exe

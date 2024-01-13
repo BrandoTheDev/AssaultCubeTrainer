@@ -1,0 +1,12 @@
+﻿  Features.cpp
+C:\Users\Brando\source\repos\ExternalAssaultCube\ExternalAssaultCube\Features.cpp(135,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brando\source\repos\ExternalAssaultCube\ExternalAssaultCube\Features.cpp(135,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brando\source\repos\ExternalAssaultCube\ExternalAssaultCube\Features.cpp(136,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brando\source\repos\ExternalAssaultCube\ExternalAssaultCube\Features.cpp(136,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MemMan.cpp
+  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 42 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ExternalAssaultCube.vcxproj -> C:\Users\Brando\source\repos\ExternalAssaultCube\Release\ExternalAssaultCube.exe
