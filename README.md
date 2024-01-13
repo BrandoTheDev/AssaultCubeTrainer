@@ -1,4 +1,4 @@
-# AssaultCube Trainer
+# AssaultCube Trainer (MADE FOR THE OLD VERSION v1.2.0.2)
 > God Mode
 
 > Aimbot
