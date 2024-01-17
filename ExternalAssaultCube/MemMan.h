@@ -18,7 +18,11 @@ public:
 	HANDLE GetProcessHandle();
 	bool CloseProcessHandle();
 	
-
+	/* Typical wrapper function you will see
+	*  This will allow different types to be 
+	*  Read/Write by calling it like so ->
+	*  "int foo = Read<int>(memory_address);"
+	*/
 	template<typename T>
 	T Read(DWORD address)
 	{
