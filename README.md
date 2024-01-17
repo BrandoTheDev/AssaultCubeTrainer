@@ -1,13 +1,13 @@
-# AssaultCube Trainer (MADE FOR THE OLD VERSION v1.2.0.2)
-> God Mode
+# AssaultCube Trainer (MADE FOR v1.2.0.2)
+> God Mode (1337 health)
 
-> Aimbot
+> Aimbot (hold left "shift" key)
 
-> Infinite Ammo
+> Infinite Ammo (1337 ammo)
 
-> Wall Hacks
+> Name ESP and border box
 
-> Teleporting
+> Teleporting to enemies
 
 # ***Installation***
 1. Download and unzip from [releases](https://github.com/BrandoTheDev/AssaultCubeTrainer/releases/download/v1/ExternalAssaultCube.exe)
@@ -16,14 +16,6 @@
 4. Enable options using F1-F5 keys
 5. Exit the program with END key
 
-# ***Final thoughts***
-
-> Please don't ruin gaming for others.
-
-> Using this online will get you banned; I'm not responsible.
-
-> I dont know how to bypass AntiCheats nor do I care to learn.
-
-> Cheat in single player games all you want.
-
-> RIP Cheat codes in the back of gaming magazines.
+# ***Needs Fixed***
+I forgot to make the ESP dynamic resolution (I used 600 x 600 windowed)
+You can try double buffering or overlay window to stop flickering
