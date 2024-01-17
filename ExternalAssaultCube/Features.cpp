@@ -131,7 +131,12 @@ void Features::ESP(DWORD entity)
 
     float matrix[16];
     mem.ReadArray<float>(Offsets::VIEW_MATRIX, matrix, 16);
+    
+    // My WTS function takes in reso|_ution so you can use your fav 
+    // way to get that and put it in for dynamic screen size esp
+    // In my updated version I use my GetWindowDim in Uti|_s.h
     Vector2 enemy = WorldToScreen(matrix, EntityPos, 600, 600);
+    
     DrawBorderBox(enemy.x - 15, enemy.y - 10, 25, 40, 1, hBrushEnemy);
     DrawString(enemy.x, enemy.y - 25, RGB(255, 0, 0), user);
     free((void*)user);
