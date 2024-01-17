@@ -17,5 +17,6 @@
 5. Exit the program with END key
 
 # ***Needs Fixed***
-I forgot to make the ESP dynamic resolution (I used 600 x 600 windowed)
-You can try double buffering or overlay window to stop flickering
+> I forgot to make the ESP dynamic resolution (I used 600 x 600 windowed)
+
+> You can try double buffering or overlay window to stop flickering
